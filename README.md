@@ -8,14 +8,14 @@ Buy an arduino, some harware (OLED-display, keys, some resistors for a probe), s
 
 ## What does ADSO perform?
 * Samples signals on one channel up to 500 Hz and 50V
-* Shows signal graphically (80x64 pixel respective 10x8 divisions)
+* Shows signal graphically (80x64 pixel respective 10x8 divisions) as pixmap or polygon
 * Selectable scales (Volts per division, ms per division)
 * 1:1 and 10:1 probe
 * Triggering of periodic signals (selectable trigger level)
 * Selectable x and y offset
 * Reference signals: rectangular, PWD-output, 5V, 3.3V, GND
-* Hold/Save/Load signal (permanent via EEPROM)
-* Simple fourier transformation (frequency analysis)
+* Hold/Save/Load signal and adjustments (permanent via EEPROM)
+* Fourier transformation (frequency analysis and harmonics)
 
 ## Where are the limits?
 * Accuracy: As the signal is shown with a pixmap with 80x64 pixels - a difference of one pixel implies a deviation of more than 1.5%.
