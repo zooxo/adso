@@ -18,7 +18,8 @@ Buy an arduino, some harware (OLED-display, keys, some resistors for a probe), s
 * Simple fourier transformation (frequency analysis)
 
 ## Where are the limits?
-* Due to limited sample/converting-performance in addition to do some calculations the arduino microprocessor can handle signals up to 500 Hz. Professional oscilloscopes (more than $400) can sample up to 100 MHz - ADSO costs less than $20.
+* Accuracy: As the signal is shown with a pixmap with 80x64 pixels - a difference of one pixel implies a deviation of more than 1.5%.
+* Bandwidth: Due to limited sample/converting-performance in addition to do some calculations the arduino microprocessor can handle signals up to 500 Hz. Professional oscilloscopes (above $400) can sample up to 100 MHz - ADSO costs less than $20.
 * Measures up to 50V input voltage - more at your own risk with another probe (i.e. 100:1 with 1MOhm-resistor to 10:1-input)
 
 ## Are there some pictures of ADSO?
