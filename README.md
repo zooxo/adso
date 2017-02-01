@@ -14,7 +14,7 @@ Buy an arduino, some hardware (OLED-display, keys, some resistors for a probe), 
 * Triggering of periodic signals (selectable trigger level)
 * Selectable x and y offset
 * Reference signals: rectangular, PWD-output, 5V, 3.3V, GND
-* Hold/Save/Load signal and adjustments (permanent via EEPROM)
+* Hold/Save/Load/Reset signal and adjustments (permanent via EEPROM)
 * Fourier transformation (frequency analysis and harmonics)
 
 ## Where are the limits?
