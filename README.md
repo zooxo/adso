@@ -1,7 +1,7 @@
 # ADSO (Arduino Digital Storage Oscilloscope)
 
 ## What is ADSO?
-ADSO is a digital storage oscilloscope running on an arduino microcontroller. It samples, stores and analyses an electrical signal.
+ADSO is a digital storage oscilloscope running on an arduino microcontroller. It samples, stores and analyses an electrical signal in a very user-friendly way.
 
 ## How do I run ADSO?
 Buy an arduino, some hardware (OLED-display, keys, some resistors for a probe), solder all parts, install the arduino software (IDE  including appropriate libraries) on your PC and compile/upload "adso.ino" to your arduino.
