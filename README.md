@@ -17,9 +17,9 @@ Buy an arduino, some hardware (OLED-display, keys, some resistors for a probe), 
 * Hold/Save/Load/Reset signal and adjustments (permanent via EEPROM)
 * Fourier transformation (frequency analysis and harmonics)
 
-## Where are the limits?
+## What are the limits?
 * Accuracy: As the signal is shown with a pixmap with 80x64 pixels - a difference of one pixel implies a deviation of more than 1.5%.
-* Bandwidth: Due to limited sample/converting-performance in addition to do some calculations the arduino microprocessor can handle signals up to 500 Hz.
+* Bandwidth: Due to limited sample/converting-performance and several calculations the arduino microcontroller can handle signals up to 500 Hz.
 * Measures up to 50V input voltage - more at your own risk with another probe (i.e. 100:1 with 1MOhm-resistor to 10:1-input)
 
 ## Are there some pictures of ADSO?
