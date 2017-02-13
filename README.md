@@ -26,6 +26,7 @@ Buy an arduino, some hardware (OLED-display, keys, some resistors for a probe), 
 ![pics](https://cloud.githubusercontent.com/assets/16148023/22583196/5c6ff56c-e9eb-11e6-8063-c9b17aff7941.png)
 
 ## Is there a video that shows ADSO at work?
+https://youtu.be/PPrNLrZ4yDo
 
 ## Is there a circuit diagram and some manuals?
 ![circuit_line](https://cloud.githubusercontent.com/assets/16148023/22583311/0672b356-e9ec-11e6-9c17-d33faeff08ca.png)
