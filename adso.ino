@@ -35,9 +35,9 @@ const byte ROWS = 2; //two rows
 const byte COLS = 3; //four columns
 char hexaKeys[ROWS][COLS] = { // "qweasd"
   {
-    'q','w','e'  }
+    'q','w','e'}
   ,{
-    'a','s','d'  }
+    'a','s','d'}
 };
 byte rowPins[ROWS] = {
   2,4}; //connect to the row pinouts of the keypad
